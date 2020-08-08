@@ -1,0 +1,100 @@
+
+
+ 
+
+.menubar{
+	position:absolute;
+	z-index:10;
+	width:100%;
+	
+}
+ 
+.navbar{
+	padding:15px 0;
+}
+.navbar-brand{
+	font-weight:800;
+	font-size:36px;
+	color:#262626;
+	text-transform:uppercase;
+	padding-left:10px;
+	
+}
+.nav-item{
+	font-weight:800;
+	text-transform:uppercase;
+}
+.navbar-dark .navbar-nav .nav-item.active .nav-link, .navbar-dark .navbar-nav  .nav-link:hover{
+	background:#262626;
+	color:#fff; 
+}
+.navbar-nav .nav-link{
+	padding-left:10px;
+}
+ 
+ 
+.banner{ 
+	background-image:
+        linear-gradient(to bottom, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)),
+        url('images/banner.jpg');
+
+	min-height:100vh;
+	position:relative;
+	background-size:cover;
+	background-position:center center;
+	padding:250px 0 200px;
+	z-index:-10px; 
+	background-color: #464646;
+	
+}
+ 
+
+
+@media (max-width: 991.98px){
+.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid, .navbar-expand-lg>.container-lg, .navbar-expand-lg>.container-md, .navbar-expand-lg>.container-sm, .navbar-expand-lg>.container-xl {
+    padding-right: 30px;
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
